@@ -8,4 +8,4 @@
 
 a nice picture following
 
-![](img2/test1/Capture.JPG)
+![](img2/Capture.JPG)
